@@ -8,9 +8,12 @@ The project is built in Visual Basic for Applications and requires access to the
 
 1. Open the Excel dashboard in Microsoft Excel for Windows.
 2. [Enable editing and macros](https://support.office.com/en-us/article/enable-or-disable-macros-in-office-files-12b036fd-d140-4e74-b45e-16fed1a7e5c6)
-3. Add an authorized Wild Apricot API key into the spreadsheet.
+3. Enter an valid Wild Apricot API key into the spreadsheet.
+4. Use the filters and buttons to run reports.
 
 A Wild Apricot API key can be created in the Settings/Security/Authorized Applications settings on free and licensed Wild Apricot instances. [Documentation on acquiring a key is available.](http://gethelp.wildapricot.com/en/articles/180)
+
+*Note:* Some datasets can be large and may take a while to run. The application is limited to about 100-200 records per minute.
 
 # Features
 
